@@ -22,7 +22,7 @@ export default class CreateRoomPage extends Component {
 
     render(){
         return (
-            <Grid>container spacing={1}
+            <Grid container spacing={1} >
                 <Grid item xs={12} align="center">
                     <Typography component="h4" variant="h4"> 
                         Create a room 
